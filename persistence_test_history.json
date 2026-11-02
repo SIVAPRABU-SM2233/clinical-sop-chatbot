@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "For this test, remember the project code word is cobalt otter."
+  },
+  {
+    "role": "assistant",
+    "content": "Got it! The project code word is **cobalt otter**. How can I assist you with it?"
+  },
+  {
+    "role": "user",
+    "content": "What was the project code word?"
+  },
+  {
+    "role": "assistant",
+    "content": "The project code word is **cobalt otter**."
+  }
+]
