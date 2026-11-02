@@ -2,3 +2,14 @@
 .env
 __pycache__/
 *.py[cod]
+
+# Local rough-work and generated files
+history_demo.py
+json_demo.py
+json_demo_file.json
+model_demo.py
+token_demo.py
+value_error_demo.py
+persistence_test_history.json
+chat_history.json
+LEARNING_NOTES.md
